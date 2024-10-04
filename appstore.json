@@ -1,8 +1,8 @@
 {
-    "name": "My Example Source",
-    "identifier": "com.example.MyApps",
-    "subtitle": "All my apps in one place.",
-    "description": "Welcome to my source! Here you'll find all of my apps.",
+    "name": "LabNat",
+    "identifier": "com.example.labnat",
+    "subtitle": "Alla mina appar på ett ställe",
+    "description": "Välkommen till min källa! Här hittar du alla mina appar.",
     "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
     "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
     "website": "https://example.com",
